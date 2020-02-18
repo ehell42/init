@@ -1,1 +1,1 @@
-systemctl (?)
+systemctl list-unit-files | grep enabled

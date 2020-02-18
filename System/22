@@ -1,1 +1,1 @@
-net user username /ADD (?)
+net user [username] [password] /ADD

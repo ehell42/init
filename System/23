@@ -1,1 +1,5 @@
-dpug --get -selections | grep -v deinstall
+graphic session:
+*put login and password*
+ssh session:
+ssh [user]@[IP] 
+[password]

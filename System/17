@@ -1,1 +1,1 @@
-(?) ssh -X[user]@[hostIPhere]
+ssh -X[user]@[hostIPhere]
